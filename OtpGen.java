@@ -15,7 +15,6 @@ public class OtpGen {
         if (args.length == 0) {
             System.out.println("Invalid arguments, please use secret key as first argument.");
             System.exit(1);
-            return;
         }
 
         String secretKey = args[0];
