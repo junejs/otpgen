@@ -7,7 +7,7 @@ import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- * Generate opt passwprd
+ * Generate opt password
  */
 public class OtpGen {
     // entry
